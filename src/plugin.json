@@ -1,0 +1,45 @@
+{
+
+    "type": "datasource",
+
+    "name": "exampleDB",
+
+    "id": "template-datasource",
+
+
+
+    "info": {
+
+      "description": "Grafana data source for Kusto Databases",
+
+      "author": {
+
+        "name": "Abhinav Reddy",
+
+        "url": "https://github.com/abhinavreddy98/template-datasource-plugin-for-grafana/"
+
+      },
+
+
+      "version": "0.0.1",
+
+      "updated": "2018-07-04"
+
+    },
+
+
+    "dependencies": {
+
+      "grafanaVersion": "4.5.x",
+
+      "plugins": [ ]
+
+    },
+
+
+
+    "metrics": true,
+
+    "annotations": false
+
+  }
